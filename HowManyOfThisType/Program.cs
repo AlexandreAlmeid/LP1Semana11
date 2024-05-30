@@ -38,11 +38,7 @@ namespace HowManyOfThisType
             // bool  : 3
             // string: 1
             // byte  : 0
-<<<<<<< HEAD
             Console.WriteLine("Thanks for using this program!");
-=======
-            Console.WriteLine("Obrigado por ter usado este programa!");
->>>>>>> eb29096 (test)
         }
     }
 }
